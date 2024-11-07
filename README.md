@@ -53,10 +53,5 @@
 
 https://github.com/user-attachments/assets/5ee17401-b4cc-43e5-98a1-299d42b9235c
 
-## 📦 Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/esraammosaad/shopna.git
 
